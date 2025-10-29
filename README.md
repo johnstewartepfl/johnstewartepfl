@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @johnstewartepfl
-- 👀 I’m interested in learning how to use a computer.
-- 🌱 I’m currently learning how to use a computer.
-- 💞️ I’m looking to collaborate on using a computer.
-- 📫 How to reach me: idk i can't use a computer.
-- 😄 Pronouns: lap/top
-- ⚡ Fun fact: i hate computers
+- 👋 Hi, I’m John Stewart, student at EPFL
+  
 
 <!---
 johnstewartepfl/johnstewartepfl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
